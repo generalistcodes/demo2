@@ -50,7 +50,7 @@ return [
             'driver' => 'mysql',
             'host' => 'localhost',
             'port' => '3306',
-            'database' => 'gradeboo_dbk',
+            'database' => 'gradebook_db',
             'username' => 'root',
             'password' => '8003d517055ffc041f4908c2c22c83f1a087de5ba308db6c',
             'charset' => 'utf8',
